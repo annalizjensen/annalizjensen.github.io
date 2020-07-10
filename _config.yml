@@ -55,16 +55,6 @@ roles:
    end: 2018
    employer: Flipboard
    description: I worked on a variety of projects in both Python and Scala, most notably, Flipboard's Briefing+ product, which shipped on Samsung devices.
- - title: Software Engineering Intern
-   start: 2016
-   end: 2016
-   employer: Flipboard
-   description: I contributed to our media web crawler and designed and implemented a error reporting and aggregation UI for our publisher support team.
- - title: Special Projects Intern
-   start: 2015
-   end: 2015
-   employer: Swarthmore College
-   description: I worked on a variety of web development projects proposed by professors to further their research goals.
    
 #Education is required
 education:
